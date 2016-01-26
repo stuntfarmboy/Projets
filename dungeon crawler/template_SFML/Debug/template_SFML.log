@@ -1,0 +1,26 @@
+﻿Build started 2016-01-14 19:56:28.
+     1>Project "E:\Prog\dungeon crawler\template_SFML\template_SFML.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\VisualStudio\VC\bin\CL.exe /c /IE:\VisualStudio\VC\include\SFML /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\prog\dungeon crawler\template_sfml\map.h(14): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>e:\prog\dungeon crawler\template_sfml\map.h(17): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>e:\prog\dungeon crawler\template_sfml\map.h(70): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\prog\dungeon crawler\template_sfml\map.h(75): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\prog\dungeon crawler\template_sfml\map.h(81): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\prog\dungeon crawler\template_sfml\play.h(56): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\prog\dungeon crawler\template_sfml\characterselection.h(43): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\prog\dungeon crawler\template_sfml\characterselection.h(73): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\prog\dungeon crawler\template_sfml\characterselection.h(77): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\prog\dungeon crawler\template_sfml\characterselection.h(82): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\prog\dungeon crawler\template_sfml\characterselection.h(88): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\prog\dungeon crawler\template_sfml\gameselection.h(46): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\prog\dungeon crawler\template_sfml\gameselection.h(48): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         E:\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Prog\dungeon crawler\Debug\template_SFML.exe" /INCREMENTAL /NOLOGO /LIBPATH:E:\VisualStudio\VC\lib "sfml-audio-d.lib" "sfml-graphics-d.lib" "sfml-network-d.lib" "sfml-system-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Prog\dungeon crawler\Debug\template_SFML.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Prog\dungeon crawler\Debug\template_SFML.lib" /MACHINE:X86 Debug\main.obj
+         template_SFML.vcxproj -> E:\Prog\dungeon crawler\Debug\template_SFML.exe
+     1>Done Building Project "E:\Prog\dungeon crawler\template_SFML\template_SFML.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.65
